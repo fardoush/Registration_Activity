@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Registration_Activity</string>
+    <!--    Mother Information-->
+
+    <string name="mother_name"> গর্ভবতী মায়ের নাম</string>
+    <string name="husband_name">স্বামীর নাম/পিতার নাম</string>
+    <string name="mobile_no">মোবাইল নাম্বার</string>
+    <string name="emergency_mobile">জরুরি মোবাইল নাম্বার</string>
+    <string name="email"> ইমেইল (যদি থাকে) </string>
+    <string name="nid">জাতীয় পরিচয়পত্র নম্বর/জন্ম নিবন্ধন সনদ </string>
+    <string name="birthday">জন্ম তারিখ </string>
+    <string name="nationality">জাতীয়তা</string>
+
+
+    <string name="career">পেশা </string>
+    <string name="blood_group">রক্তের গ্রুপঃ</string>
+    <string name="educational_experience">শিক্ষাগত অভিজ্ঞতা</string>
+
+    <string name="perioud">আপনার  পিরিয়ডের শেষ তারিখ</string>
+    <string name="your_age">আপনার বয়স</string>
+    <string name="how_much_baby">কত তম বেবি</string>
+
+    <string name="housewife">গৃহিনী</string>
+    <string name="oi"> (ঐ)</string>
+
+    <string name="pur">পূর্বের গর্ভপাত</string>
+    <string name="yes"> হ্যাঁ</string>
+    <string name="no"> না  </string>
+
+    <string name="tika">টিক দিন </string>
+    <string name="birt_falt">জন্মগত ত্রুটি</string>
+    <string name="danger">দূর্গটনা জরনিত ত্রুটি </string>
+    <string name="simple">স্বাভাবিক
+</string>
+    <string-array name="dist_list">
+
+        <item>আপনার জেলা </item>
+
+
+    </string-array>
+
+    <string-array name="thana_list">
+
+        <item> উপজেলা/থানা</item>
+
+    </string-array>
+    <string-array name="union_list">
+
+        <item> ইউনিয়ন/পৌরসভা</item>
+    </string-array> <string-array name="village_list">
+
+    <item> গ্রাম/ওয়ার্ড </item>
+</string-array>
+
+    <!--    <string name="dist">আপনার জেলা</string>-->
+    <!--    <string name="thana">উপজেলা/থানা</string>-->
+    <!--    <string name="union"> ইউনিয়ন/পৌরসভা</string>-->
+    <!--    <string name="vill">গ্রাম/ওয়ার্ড </string>-->
+
+
+    <string-array name="career_list">
+
+        <item>গৃহিনী </item>
+        <item> চাকরিজীবী </item>
+    </string-array>
+
+    <string-array name="blood_grp_list">
+
+        <item> A+</item>
+        <item>O+</item>
+
+        <item>B+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>O-</item>
+        <item>B-</item>
+        <item>AB-</item>
+
+
+
+    </string-array>
+
+
+    <string-array name="educational_list">
+
+        <item>প্রাথমিক শিক্ষা</item>
+        <item>জুনিয়র মাধ্যমিক শিক্ষা </item>
+        <item> মাধ্যমিক শিক্ষা</item>
+        <item>উচ্চ মাধ্যমিক </item>
+        <item>ইঞ্জিনিয়ারিং ডিপ্লোমা </item>
+        <item> স্নাতক/ফাজিল </item>
+        <item> মাস্টার্স/কামিল</item>
+        <item> ডক্টরেট </item>
+
+    </string-array>
+    <string name="submit_button"> সাবমিট </string>
+    <!--end mother information-->
+</resources>
